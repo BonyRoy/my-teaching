@@ -1,6 +1,7 @@
 import STQA from "./images/IMG_4054.jpg";
 import EM from "./images/IMG_4055.jpg";
 import UIUX from "./images/IMG_4056.jpg";
+import python from "./images/IMG_4206.jpg";
 import WX from "./images/IMG_4057.jpg";
 import IP from "./images/IMG_4058.jpg";
 import CNS from "./images/IMG_4059.jpg";
@@ -19,6 +20,11 @@ const Booksdata = [
         imgsrc: UIUX,
         title: "User Interface Design & Experience",
         Link:"https://drive.google.com/file/d/1yaazo3J0wCl30UWGe0IL4SvUf_H3SolF/view?usp=sharing",
+    },
+    { 
+        imgsrc: python,
+        title: "Python Basics For Beginners",
+        Link:"https://docs.google.com/document/d/1mn7RLtM3JoldEcRTQykcWHkZNvOvA9Mlw_ns5pTSAzk/edit?usp=sharing",
     },
     {
         imgsrc: WX,
